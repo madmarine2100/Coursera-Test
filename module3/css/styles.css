@@ -1,0 +1,18 @@
+
+/* Expanded Button Color */
+.btn[aria-expanded="true"] {
+    border-color: #2b303a;
+}
+
+/* Change Navbar Color */
+navbar {
+    background-color: #e72580; 
+}
+
+nav-item {
+  border-color: #ce1010;
+}
+
+h2{
+  font-size: medium;
+}
